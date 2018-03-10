@@ -26,5 +26,5 @@ Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update 
 
 ### Toplam pixel sayısı =1921108
 
-#### VoidGirl
+#### TR
 [![](https://raw.githubusercontent.com/EmirKaya/TrZone-Minimap/master/images/TR.png)](http://pixelzone.io/?p=862,-505)
