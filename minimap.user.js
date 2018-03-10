@@ -133,11 +133,6 @@ window.addEventListener('load', function () {
             x_window = x;
             y_window = y;
             drawCursor();
-        } else {
-            this.innerHTML = "Ekranı Takip Et";
-            getCenter();
-        }
-    };
 
     gameWindow.addEventListener('mouseup', function (evt) {
         if (!toggle_show)
