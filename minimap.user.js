@@ -176,7 +176,7 @@ function exportMd() {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
         mdstr += '\n[![](https://raw.githubusercontent.com/EmirKaya/TrZone-Minimap/master/images/' + eles.name + ')]';
-        mdstr += '(http://pixelzone.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
+        mdstr += '(http://pixelzone.io/?p=' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
     });
