@@ -4,7 +4,6 @@
 // @version      3.1.2
 // @description  PixelZone Minimap     ☪ | TrZone | ☪
 // @author       Emir Kaya
-// @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/EmirKaya/TrZone-MiniMap
 // @updateURL    https://raw.githubusercontent.com/EmirKaya/TrZone-Minimap/master/minimap.user.js
